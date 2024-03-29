@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 71897040f4082454ab0b752aaac7aa39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2360
+        width: 267
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5eb890731f36748bda79af8265a7b5
+      internalID: -101661639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2351
+        width: 293
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80293ce196964a9438b734f760bfcef0
+      internalID: -139279440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 2354
+        width: 319
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ce7d786f603ed48a0ae8b5a736e0e2
+      internalID: -1455377197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 2369
+        width: 319
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22f6a2e42edd346976cc9a551db901
+      internalID: 1828426493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4437
+        y: 2375
+        width: 311
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335549445a84b2f4a93e4cb221ac2f50
+      internalID: 1191237698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5361
+        y: 2383
+        width: 383
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1ebaec292a524cbfa4ff5517f0bd7
+      internalID: -46939663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1361
+        width: 366
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94be7d7c620e8cf46b7166d6bac56e6b
+      internalID: 979890662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1300
+        width: 301
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef87fdd6fa00ca741b67cbfe0b0ebe8d
+      internalID: 1675752452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1317
+        width: 338
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020440833841ac4ba577986737f11a1
+      internalID: 95995645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 1305
+        width: 269
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9dd89142719841ac897d3169812ef
+      internalID: -1490731976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 4356
+        y: 1329
+        width: 260
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2460c1b038a8747830a827ac1efba1
+      internalID: 1509255383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 5336
+        y: 1329
+        width: 343
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d539ad7ff666845b1a4d015b4e097b
+      internalID: -1061531410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 205
+        width: 264
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd37938a8a30cd147a58176ef10921c2
+      internalID: 991002851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 231
+        width: 249
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b2babe817c83446a5fa0147caf0df7
+      internalID: -1097544123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 324
+        width: 341
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecebb956ddd8fc24982df5d332dd0883
+      internalID: -415959731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 365
+        width: 409
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e1a9ecb2d46f24ebfeb8a9546feb6b
+      internalID: 1267795340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 338
+        width: 401
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f89f94c7673244a8ae8f4452241b10
+      internalID: -2078295642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward Roll - SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 5231
+        y: 324
+        width: 398
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abc2ce041292df41aa98d1aa6669bbf
+      internalID: 21361530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Forward Roll - SpriteSheet_0: -101661639
+      Forward Roll - SpriteSheet_1: -139279440
+      Forward Roll - SpriteSheet_10: 1509255383
+      Forward Roll - SpriteSheet_11: -1061531410
+      Forward Roll - SpriteSheet_12: 991002851
+      Forward Roll - SpriteSheet_13: -1097544123
+      Forward Roll - SpriteSheet_14: -415959731
+      Forward Roll - SpriteSheet_15: 1267795340
+      Forward Roll - SpriteSheet_16: -2078295642
+      Forward Roll - SpriteSheet_17: 21361530
+      Forward Roll - SpriteSheet_2: -1455377197
+      Forward Roll - SpriteSheet_3: 1828426493
+      Forward Roll - SpriteSheet_4: 1191237698
+      Forward Roll - SpriteSheet_5: -46939663
+      Forward Roll - SpriteSheet_6: 979890662
+      Forward Roll - SpriteSheet_7: 1675752452
+      Forward Roll - SpriteSheet_8: 95995645
+      Forward Roll - SpriteSheet_9: -1490731976
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

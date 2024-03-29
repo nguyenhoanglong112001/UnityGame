@@ -1,0 +1,827 @@
+fileFormatVersion: 2
+guid: 75fd92cc674845346b9ff1cbefb648dc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 3365
+        width: 412
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7fb80fbb1ba8b439a4dd775ce99c34
+      internalID: -468432196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3365
+        width: 421
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0784cccd72d2242bb793c72a9f2ddc
+      internalID: -152863199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 3365
+        width: 420
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e81758ec7291743bed40fcc83d7e83
+      internalID: -1179661091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 3365
+        width: 405
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec71c8e47d68504b838f43bc6f3a9cb
+      internalID: -1876453336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4205
+        y: 3365
+        width: 395
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989a39b0dec59544a982cb4fa9d2e1a3
+      internalID: 1361736992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 3365
+        width: 391
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3464f5ed04b685844b7181241802deaf
+      internalID: 1999154434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 6209
+        y: 3365
+        width: 391
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a7f2fe8ca52b43966e9ec598b8325
+      internalID: 630388661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 7209
+        y: 3365
+        width: 391
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baec82e08537ce44ab34ecd48e45917
+      internalID: 617754014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2365
+        width: 391
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c9ebca5a761af48ba1a87693cf3490
+      internalID: -171103521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2365
+        width: 394
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf7cb6202d5c6441a701655ad50f157
+      internalID: 613992357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 2365
+        width: 394
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c8082f9db85014ca576e989c495562
+      internalID: -2068990560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 2365
+        width: 397
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bff0d136ebdb54b962b9ea6b6d467e
+      internalID: -1430371740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 2365
+        width: 401
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb15182648f263649a4b0d3877bf677f
+      internalID: 605945449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 5213
+        y: 2365
+        width: 402
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de857f97711fb8c49a5cb7a7d383cb50
+      internalID: -1760963234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 6214
+        y: 2365
+        width: 405
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de745c1306b40c1419ea151fdbad3002
+      internalID: -250823351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 2365
+        width: 404
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d8fef9a1a80b43b3b0a2d81ec3937
+      internalID: 1650990851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1365
+        width: 404
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f7eb27d235b64cab8546156951ed0
+      internalID: -1622328598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1365
+        width: 404
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6948cbd71ec619045bd04a712d0b67d0
+      internalID: 2116821340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1365
+        width: 404
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07046c365d5d91746a443e70e84d74d8
+      internalID: -1798197675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 1365
+        width: 404
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22adcde1c5581804cb6f27534b3d1e65
+      internalID: -49322146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 1365
+        width: 406
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9257cf23e6dcfe240af5cd45323746ec
+      internalID: 1109913776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 1365
+        width: 422
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02346dd362fa274d90643c2032e58a9
+      internalID: 1189927974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 6221
+        y: 1365
+        width: 429
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752aa2bdc6bced14990ffc6139c94599
+      internalID: 179331145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 1365
+        width: 429
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3c3623b1c585248a72e15706e6f657
+      internalID: 898129295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 365
+        width: 412
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8fd0419d060844890d942e50fef13d
+      internalID: 1086544106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 365
+        width: 410
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac5438b5bd086642a44b4a391da1bca
+      internalID: 2129326968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 365
+        width: 410
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaf17f74d7412d4488f9c1d898adc21
+      internalID: -282101334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 365
+        width: 410
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f5c59c7a43383438f9e577e3b170a8
+      internalID: -282143744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 365
+        width: 410
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67996511ab75b7a459100f7fa6ff384d
+      internalID: -699674745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 365
+        width: 410
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f779e6ada303c644b317882ddb8079b
+      internalID: 1924155386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 6236
+        y: 365
+        width: 410
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a029aeeab62a96945a0eb8a71eb33abc
+      internalID: -1353119791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon Ward - SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 7236
+        y: 365
+        width: 410
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b27c8e2f7a09e4b9ca30d9af925015
+      internalID: -1635067227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Summon Ward - SpriteSheet_0: -468432196
+      Summon Ward - SpriteSheet_1: -152863199
+      Summon Ward - SpriteSheet_10: -2068990560
+      Summon Ward - SpriteSheet_11: -1430371740
+      Summon Ward - SpriteSheet_12: 605945449
+      Summon Ward - SpriteSheet_13: -1760963234
+      Summon Ward - SpriteSheet_14: -250823351
+      Summon Ward - SpriteSheet_15: 1650990851
+      Summon Ward - SpriteSheet_16: -1622328598
+      Summon Ward - SpriteSheet_17: 2116821340
+      Summon Ward - SpriteSheet_18: -1798197675
+      Summon Ward - SpriteSheet_19: -49322146
+      Summon Ward - SpriteSheet_2: -1179661091
+      Summon Ward - SpriteSheet_20: 1109913776
+      Summon Ward - SpriteSheet_21: 1189927974
+      Summon Ward - SpriteSheet_22: 179331145
+      Summon Ward - SpriteSheet_23: 898129295
+      Summon Ward - SpriteSheet_24: 1086544106
+      Summon Ward - SpriteSheet_25: 2129326968
+      Summon Ward - SpriteSheet_26: -282101334
+      Summon Ward - SpriteSheet_27: -282143744
+      Summon Ward - SpriteSheet_28: -699674745
+      Summon Ward - SpriteSheet_29: 1924155386
+      Summon Ward - SpriteSheet_3: -1876453336
+      Summon Ward - SpriteSheet_30: -1353119791
+      Summon Ward - SpriteSheet_31: -1635067227
+      Summon Ward - SpriteSheet_4: 1361736992
+      Summon Ward - SpriteSheet_5: 1999154434
+      Summon Ward - SpriteSheet_6: 630388661
+      Summon Ward - SpriteSheet_7: 617754014
+      Summon Ward - SpriteSheet_8: -171103521
+      Summon Ward - SpriteSheet_9: 613992357
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
